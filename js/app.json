@@ -1,31 +1,31 @@
 {
     "songs": [{
             "id": 0,
-            "nombre": "Back In Black",
-            "artista": "AC/DC",
-            "song": "music/ACDC - Back In Black.mp3",
-            "image": "img/Back In Black.jpeg"
+            "title": "Back In Black",
+            "artist": "AC/DC",
+            "sourceSong": "./assets/music/ACDC - Back In Black.mp3",
+            "coverPath": "./assets/img/Back In Black.jpeg"
         },
         {
             "id": 1,
-            "nombre": " Wake Me Up When September Ends",
-            "artista": "Green Day",
-            "song": "music/Green Day - Wake Me Up When September Ends - HQ.mp3",
-            "image": "img/AmericanIdiot.png"
+            "title": "Wake Me Up When September Ends",
+            "artist": "Green Day",
+            "sourceSong": "./assets/music/Green Day - Wake Me Up When September Ends - HQ.mp3",
+            "coverPath": "./assets/img/AmericanIdiot.png"
         },
         {
             "id": 2,
-            "nombre": "Back In Black 3",
-            "artista": "AC/DC",
-            "song": "music/ACDC - Back In Black.mp3",
-            "image": "img/Back In Black.jpeg"
+            "title": "Fade To Black",
+            "artist": "Metallica",
+            "sourceSong": "./assets/music/Fade To Black.mp3",
+            "coverPah": "./assets/img/RideTheLightning.jpg"
         },
         {
             "id": 3,
-            "nombre": "Back In Black 4",
-            "artista": "AC/DC",
-            "song": "music/ACDC - Back In Black.mp3",
-            "image": "img/Back In Black.jpeg"
+            "title": "Back In Black 4",
+            "artist": "AC/DC",
+            "coverPath": "./assets/img/Back In Black.jpeg",
+            "sourceSong": "./assets/music/ACDC - Back In Black.mp3"
         }
     ]
 }
